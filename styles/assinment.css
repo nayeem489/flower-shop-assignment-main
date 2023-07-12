@@ -1,0 +1,43 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+}
+
+.banner-section {
+    margin-left: 70px;
+}
+
+.banner-greeting {
+    color: #272727;
+    font-size: 50px;
+    margin-bottom: 20px;
+
+}
+
+.banner-desc {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    padding: 15px 30px;
+}
+
+.profile-pic {
+    width: 450px;
+    height: 600px;
+    margin: 50px 100px 0px;
+}
